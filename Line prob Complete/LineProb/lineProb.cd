@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LineProb.BL.MyLine">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAECEAAEAAAAAAAAAIAQAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>BL\MyLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineProb.BL.MyPoint">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAABAAAAAAAAAAQAAAAAAAAgAGAAYAA=</HashCode>
+      <FileName>BL\MyPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineProb.DL.MyLineD">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAACAQAAAAAgAAAAAAAAQAAAIAAA=</HashCode>
+      <FileName>DL\MyLineD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineProb.UI.MyLineUI">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>UI\MyLineUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineProb.UI.UserI">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAACAAAAAAAAgAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\UserI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

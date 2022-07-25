@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POS.BL.Customer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAEAAQAAAAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.BL.MUser" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEQAAABAAAAAAAJgBEQAAAAAAgAAAAAAgAAEIA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.BL.Product" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAAAAAAAAAAAIgAAAAACEAoAAAAAMAAgAAAA=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.DL.CustomerD" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DL\CustomerD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.DL.MUserD" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAI=</HashCode>
+      <FileName>DL\MUserD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.DL.ProductD" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAgAAAAAAACAAAAAAACAAAAAAAAAAQAAE=</HashCode>
+      <FileName>DL\ProductD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UI.CustomerUI" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\CustomerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UI.MUserUI" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MUserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UI.ProductUI" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>UI\ProductUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UI.UserI" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAIACAA=</HashCode>
+      <FileName>UI\UserI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

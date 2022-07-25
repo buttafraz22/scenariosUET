@@ -1,0 +1,7 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\bin\Debug\TeshaCoffee.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\bin\Debug\TeshaCoffee.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\bin\Debug\TeshaCoffee.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\obj\Debug\TeshaCoffee.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\obj\Debug\TeshaCoffee.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\obj\Debug\TeshaCoffee.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\TeshaCoffee\TeshaCoffee\obj\Debug\TeshaCoffee.pdb

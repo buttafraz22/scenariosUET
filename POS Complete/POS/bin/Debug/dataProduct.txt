@@ -1,0 +1,6 @@
+Beryani,Food,222,3,3
+Chicken,Food,332,5,1
+Jojo Pan Masala,Fresh Fruit,22,100,3
+1 crore Nokri,50 lak ghar,1E+07,111,12
+Jojo,Food,10.33,25,2
+1,drinks,19.77,33,2

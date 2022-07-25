@@ -1,0 +1,14 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\bin\Debug\POS.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\bin\Debug\POS.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\bin\Debug\POS.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\obj\Debug\POS.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS\POS\obj\Debug\POS.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\bin\Debug\POS.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\bin\Debug\POS.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\bin\Debug\POS.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\obj\Debug\POS.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\POS Complete\POS\obj\Debug\POS.pdb

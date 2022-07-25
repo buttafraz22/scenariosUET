@@ -1,0 +1,11 @@
+afraz,123,ADMIN
+shahzaib,123,CUSTOMER
+Hassan,567,CUSTOMER
+shahzaib,123,CUSTOMER
+shahzaib,123,CUSTOMER
+a,c,CUSTOMER
+awais,123,CUSTOMER
+awasis,awasis,CUSTOMER
+awais,123,CUSTOMER
+asad,123,CUSTOMER
+awais,123,CUSTOMER

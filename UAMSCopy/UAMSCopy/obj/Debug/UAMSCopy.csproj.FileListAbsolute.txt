@@ -1,0 +1,7 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\bin\Debug\UAMSCopy.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\bin\Debug\UAMSCopy.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\bin\Debug\UAMSCopy.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\obj\Debug\UAMSCopy.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\obj\Debug\UAMSCopy.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\obj\Debug\UAMSCopy.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\UAMSCopy\UAMSCopy\obj\Debug\UAMSCopy.pdb

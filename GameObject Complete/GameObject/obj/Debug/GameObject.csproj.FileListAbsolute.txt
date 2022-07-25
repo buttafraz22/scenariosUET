@@ -1,0 +1,7 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\bin\Debug\GameObject.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\bin\Debug\GameObject.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\bin\Debug\GameObject.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\obj\Debug\GameObject.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\GameObject\GameObject\obj\Debug\GameObject.pdb

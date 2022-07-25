@@ -1,0 +1,7 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb

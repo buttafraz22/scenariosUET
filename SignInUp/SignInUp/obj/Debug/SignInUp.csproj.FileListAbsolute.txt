@@ -1,0 +1,7 @@
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\obj\Debug\SignInUp.csproj.AssemblyReference.cache
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\obj\Debug\SignInUp.csproj.CoreCompileInputs.cache
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\bin\Debug\SignInUp.exe.config
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\bin\Debug\SignInUp.exe
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\bin\Debug\SignInUp.pdb
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\obj\Debug\SignInUp.exe
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\SignInUp\SignInUp\obj\Debug\SignInUp.pdb

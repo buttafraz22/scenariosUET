@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanNavigation.BL.Angle">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.BL.Ship">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAACAAAABAAAQIAAAAAAAA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.DL.ShipD">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAQAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ShipD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.ShipUI">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAoAAAAQAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShipUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.AngleUI">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>AngleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.UI.UserI">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

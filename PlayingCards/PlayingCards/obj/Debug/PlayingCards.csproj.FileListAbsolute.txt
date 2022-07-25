@@ -1,0 +1,7 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\obj\Debug\PlayingCards.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\obj\Debug\PlayingCards.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\bin\Debug\PlayingCards.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\bin\Debug\PlayingCards.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\obj\Debug\PlayingCards.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PlayingCards\PlayingCards\obj\Debug\PlayingCards.pdb

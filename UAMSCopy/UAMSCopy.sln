@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAMSCopy", "UAMSCopy\UAMSCopy.csproj", "{E3CD3698-C3C5-4475-BB45-B41EA79096C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3CD3698-C3C5-4475-BB45-B41EA79096C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CD3698-C3C5-4475-BB45-B41EA79096C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CD3698-C3C5-4475-BB45-B41EA79096C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CD3698-C3C5-4475-BB45-B41EA79096C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E93FEB-BF93-4FDC-AACF-023748A52DB0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\bin\Debug\Week1Self.exe.config
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\bin\Debug\Week1Self.exe
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\bin\Debug\Week1Self.pdb
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\obj\Debug\Week1Self.csproj.AssemblyReference.cache
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\obj\Debug\Week1Self.csproj.CoreCompileInputs.cache
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\obj\Debug\Week1Self.exe
+C:\BSCS\second semester\Object Oriented Programming\Self Assessments\Week1Self\Week1Self\obj\Debug\Week1Self.pdb

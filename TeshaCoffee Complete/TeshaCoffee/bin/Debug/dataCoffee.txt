@@ -1,0 +1,3 @@
+Chai,Drink,2500
+Nihari,Food,1000
+Toffee,Food,0.25

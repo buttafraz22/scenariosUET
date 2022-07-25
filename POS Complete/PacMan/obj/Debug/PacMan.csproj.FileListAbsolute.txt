@@ -1,0 +1,10 @@
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\bin\Debug\PacMan.exe.config
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\bin\Debug\PacMan.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\bin\Debug\PacMan.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\obj\Debug\PacMan.exe
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\obj\Debug\PacMan.pdb
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\bin\Debug\EZInput.dll
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\bin\Debug\EZInput.xml
+D:\BSCS\second semester\Object Oriented Programming\Self Assessments\PacMan\obj\Debug\PacMan.csproj.CopyComplete
